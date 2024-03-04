@@ -37,3 +37,9 @@ Train linear SVM classifiers with different values of C and evaluate accuracy.
 Train a Logistic Regression model and evaluate its accuracy.
 Plot a probability contour plot to visualize the decision boundaries.
 Predict the probability of Iris Setosa for a given sample.
+
+**Neural Network Digit Classifier with Early Stopping**
+
+This code repository contains a Python script for training a neural network model to classify handwritten digits using the MNIST dataset. 
+The model is built using TensorFlow and Keras, with early stopping implemented to prevent overfitting. 
+The provided script loads and preprocesses the data, constructs the neural network architecture, trains the model, and evaluates its performance on a separate test set.
