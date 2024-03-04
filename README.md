@@ -2,7 +2,7 @@ This repository contains a collection of machine learning projects covering vari
 
 Project List:
 
-MNIST Dataset Exploration and Clustering Analysis:
+**MNIST Dataset Exploration and Clustering Analysis:
 
 Load the MNIST dataset and select digits 7, 8, and 9.
 Apply Principal Component Analysis (PCA) to reduce dimensionality.
@@ -11,7 +11,7 @@ Perform clustering with K-Means and evaluate the silhouette scores to determine 
 Plot representative images for each cluster.
 
 
-Housing Price Prediction with Random Forest Regression:
+**Housing Price Prediction with Random Forest Regression:
 
 Load the housing dataset and perform data cleaning and preprocessing.
 Encode categorical variables and scale numerical features.
@@ -20,7 +20,7 @@ Train a Random Forest Regressor model with the optimized parameters.
 Identify and visualize the most important features affecting house prices.
 
 
-Stacking Ensemble Classifier for MNIST Digit Recognition:
+**Stacking Ensemble Classifier for MNIST Digit Recognition:
 
 Load the MNIST dataset and split it into training and test sets.
 Apply PCA to reduce dimensions and preserve variance.
@@ -29,7 +29,7 @@ Build a Stacking Ensemble Classifier using the trained base classifiers.
 Evaluate the Stacking Classifier's performance on the test set and compare it with individual classifiers.
 
 
-Iris Species Classification with Linear SVM and Logistic Regression:
+**Iris Species Classification with Linear SVM and Logistic Regression:
 
 Load the Iris dataset and select relevant features for classification.
 Visualize the data distribution in a scatter plot.
